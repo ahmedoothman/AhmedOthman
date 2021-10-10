@@ -14,6 +14,7 @@
     height: 70rem; */
     /* position: relative;
     width:100%; */
+    padding: 0;
 }
 .mob-b{
   display: none;
@@ -34,6 +35,7 @@
 }
 .nav-cont{
   max-width:100%;
+
 }
 .menu-back{
   background-color: #0f538c;
@@ -152,7 +154,7 @@ p span{
   }
   .nav-cont{
     max-width:90%;
-    padding: 20px;
+    height: 10px;
   }
   .header{
       background-image: url(../img/headerBackground.png);
